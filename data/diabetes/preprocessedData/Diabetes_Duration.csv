@@ -1,0 +1,1328 @@
+date,time,code,value,duration
+03-01-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-01-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-01-1991,08:00,NPH insulin dose,Extremely low blood sugar content,0.25
+03-01-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-01-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-01-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-01-1991,18:00,NPH insulin dose,Extremely low blood sugar content,0.25
+03-01-1991,22:00,Unspecified blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-02-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-02-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-02-1991,08:00,NPH insulin dose,Extremely low blood sugar content,0.25
+03-02-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-02-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-02-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-02-1991,18:00,NPH insulin dose,Extremely low blood sugar content,0.25
+03-02-1991,22:00,Unspecified blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-03-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-03-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-03-1991,08:00,NPH insulin dose,Extremely low blood sugar content,0.25
+03-03-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-03-1991,18:00,Pre-supper blood glucose measurement,Low blood sugar content,0.003472222222222222
+03-03-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-03-1991,18:00,NPH insulin dose,Extremely low blood sugar content,0.25
+03-03-1991,22:00,Unspecified blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-03-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-04-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-04-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-04-1991,08:00,NPH insulin dose,Extremely low blood sugar content,0.25
+03-04-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+03-04-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-04-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-04-1991,18:00,NPH insulin dose,Extremely low blood sugar content,0.25
+03-04-1991,22:00,Unspecified blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-05-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-05-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-05-1991,08:00,NPH insulin dose,Extremely low blood sugar content,0.25
+03-05-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-05-1991,18:00,Pre-supper blood glucose measurement,Low blood sugar content,0.003472222222222222
+03-05-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-05-1991,18:00,NPH insulin dose,Extremely low blood sugar content,0.25
+03-05-1991,22:00,Unspecified blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-06-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+03-06-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-06-1991,08:00,NPH insulin dose,Extremely low blood sugar content,0.25
+03-06-1991,12:00,Pre-lunch blood glucose measurement,Low blood sugar content,0.003472222222222222
+03-06-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+03-06-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-06-1991,18:00,NPH insulin dose,Extremely low blood sugar content,0.25
+03-06-1991,22:00,Unspecified blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-07-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-07-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-07-1991,08:00,NPH insulin dose,Extremely low blood sugar content,0.25
+03-07-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+03-07-1991,18:00,Pre-supper blood glucose measurement,Low blood sugar content,0.003472222222222222
+03-07-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-07-1991,18:00,NPH insulin dose,Extremely low blood sugar content,0.25
+03-07-1991,22:00,Unspecified blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-07-1991,22:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-08-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-08-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-08-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-08-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-08-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-08-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-08-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-08-1991,22:00,Unspecified blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-09-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-09-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-09-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-09-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-09-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-09-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-09-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-09-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+03-10-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+03-10-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-10-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-10-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-10-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-10-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+03-10-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-10-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+03-11-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-11-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-11-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-11-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+03-11-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-11-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-11-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-11-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-12-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-12-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-12-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-12-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-12-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-12-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+03-12-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-12-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-13-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-13-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-13-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-13-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-13-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-13-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+03-13-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-13-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-14-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-14-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-14-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-14-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-14-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-14-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-14-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-14-1991,22:00,Unspecified blood glucose measurement,Low blood sugar content,0.003472222222222222
+03-15-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-15-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-15-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-15-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-15-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-15-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-15-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-15-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+03-16-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+03-16-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-16-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-16-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-16-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-16-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+03-16-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-16-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-17-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-17-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-17-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-17-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-17-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-17-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-17-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-17-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-18-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-18-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-18-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-18-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-18-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-18-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+03-18-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-18-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+03-19-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+03-19-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-19-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-19-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+03-19-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-19-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-19-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-19-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+03-20-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-20-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-20-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-20-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-20-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-20-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+03-20-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-20-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-21-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-21-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-21-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-21-1991,12:00,Pre-lunch blood glucose measurement,Low blood sugar content,0.003472222222222222
+03-21-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-21-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-21-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-21-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+03-22-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+03-22-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-22-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-22-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-22-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-22-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-22-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-22-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-23-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-23-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-23-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-23-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-23-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-23-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-23-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-23-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-24-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-24-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-24-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-24-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-24-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-24-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+03-24-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-24-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-25-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+03-25-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-25-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-25-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+03-25-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-25-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+03-25-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-25-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-26-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+03-26-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-26-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-26-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-26-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-26-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-26-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-26-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-27-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-27-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-27-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-27-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+03-27-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-27-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-27-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-27-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-28-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-28-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-28-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-28-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-28-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-28-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-28-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-28-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-29-1991,08:00,Pre-breakfast blood glucose measurement,Low blood sugar content,0.003472222222222222
+03-29-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-29-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-29-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-29-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-29-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-29-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-29-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-30-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-30-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-30-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-30-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+03-30-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-30-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-30-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-30-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+03-31-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+03-31-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-31-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+03-31-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+03-31-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-31-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+03-31-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+03-31-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-01-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-01-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-01-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-01-1991,12:00,Pre-lunch blood glucose measurement,Low blood sugar content,0.003472222222222222
+04-01-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-01-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-01-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-01-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-02-1991,08:00,Pre-breakfast blood glucose measurement,Low blood sugar content,0.003472222222222222
+04-02-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-02-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-02-1991,12:00,Hypoglycemic symptoms,Extremely low blood sugar content,0.003472222222222222
+04-02-1991,12:00,Pre-lunch blood glucose measurement,Low blood sugar content,0.003472222222222222
+04-02-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-02-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-02-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-02-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-03-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-03-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-03-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-03-1991,12:00,Pre-lunch blood glucose measurement,Low blood sugar content,0.003472222222222222
+04-03-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-03-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-03-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-03-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+04-04-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-04-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-04-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-04-1991,12:00,Pre-lunch blood glucose measurement,Low blood sugar content,0.003472222222222222
+04-04-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-04-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-04-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-04-1991,22:00,Unspecified blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-04-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-05-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+04-05-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-05-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-05-1991,12:00,Pre-lunch blood glucose measurement,Low blood sugar content,0.003472222222222222
+04-05-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-05-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-05-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-05-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+04-05-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-06-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-06-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-06-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-06-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-06-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-06-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-06-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-06-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-06-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-07-1991,08:00,Pre-breakfast blood glucose measurement,Low blood sugar content,0.003472222222222222
+04-07-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-07-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-07-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-07-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-07-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-07-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-07-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+04-07-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-08-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-08-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-08-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-08-1991,12:00,Pre-lunch blood glucose measurement,Low blood sugar content,0.003472222222222222
+04-08-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-08-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-08-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-08-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-08-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-09-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-09-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-09-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-09-1991,12:00,Pre-lunch blood glucose measurement,Low blood sugar content,0.003472222222222222
+04-09-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-09-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-09-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-09-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-09-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-10-1991,08:00,Pre-breakfast blood glucose measurement,Low blood sugar content,0.003472222222222222
+04-10-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-10-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-10-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-10-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-10-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+04-10-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-10-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-10-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-11-1991,05:00,Hypoglycemic symptoms,Extremely low blood sugar content,0.003472222222222222
+04-11-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-11-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-11-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-11-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+04-11-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-11-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+04-11-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-11-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+04-11-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-12-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-12-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-12-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-12-1991,12:00,Pre-lunch blood glucose measurement,Low blood sugar content,0.003472222222222222
+04-12-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-12-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+04-12-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-12-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+04-12-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-13-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+04-13-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-13-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-13-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-13-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-13-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+04-13-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-13-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+04-13-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-14-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+04-14-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-14-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-14-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-14-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-14-1991,18:00,Pre-supper blood glucose measurement,Low blood sugar content,0.003472222222222222
+04-14-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-14-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+04-14-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-15-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-15-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-15-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-15-1991,12:00,Pre-lunch blood glucose measurement,Low blood sugar content,0.003472222222222222
+04-15-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-15-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-15-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-15-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+04-15-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-16-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-16-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-16-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-16-1991,12:00,Pre-lunch blood glucose measurement,Low blood sugar content,0.003472222222222222
+04-16-1991,12:00,Hypoglycemic symptoms,Extremely low blood sugar content,0.003472222222222222
+04-16-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-16-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+04-16-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-16-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-16-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-17-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+04-17-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-17-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-17-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-17-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-17-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-17-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-17-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-17-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-18-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+04-18-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-18-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-18-1991,12:00,Pre-lunch blood glucose measurement,Low blood sugar content,0.003472222222222222
+04-18-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-18-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-18-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-18-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+04-18-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-19-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-19-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-19-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-19-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-19-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-19-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-19-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-19-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+04-19-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-20-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+04-20-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-20-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-20-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-20-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-20-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+04-20-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-20-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+04-20-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-21-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-21-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-21-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-21-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+04-21-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-21-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+04-21-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-21-1991,22:00,Unspecified blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-21-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-22-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-22-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-22-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-22-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-22-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-22-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+04-22-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-22-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-22-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-23-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+04-23-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-23-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-23-1991,12:00,Pre-lunch blood glucose measurement,Low blood sugar content,0.003472222222222222
+04-23-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-23-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-23-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-23-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-23-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-24-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-24-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-24-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-24-1991,12:00,Pre-lunch blood glucose measurement,Low blood sugar content,0.003472222222222222
+04-24-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-24-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-24-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-24-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+04-24-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-25-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-25-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-25-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-25-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-25-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-25-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-25-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-25-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-25-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-26-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-26-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-26-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-26-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-26-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-26-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-26-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-26-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-26-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-27-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+04-27-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-27-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-27-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-27-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-27-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+04-27-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-27-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+04-27-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-28-1991,03:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+04-28-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-28-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-28-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-28-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+04-28-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-28-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-28-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-28-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+04-28-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-29-1991,03:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+04-29-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-29-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-29-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-29-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-29-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-29-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+04-29-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-29-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+04-29-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-30-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-30-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-30-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+04-30-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+04-30-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-30-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+04-30-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+04-30-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+04-30-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-01-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+05-01-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-01-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-01-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-01-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-01-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+05-01-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-01-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+05-01-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-02-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+05-02-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-02-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-02-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-02-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-02-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-02-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-02-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-02-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-03-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-03-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-03-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-03-1991,12:00,Pre-lunch blood glucose measurement,Low blood sugar content,0.003472222222222222
+05-03-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-03-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-03-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-03-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-03-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-04-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-04-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-04-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-04-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+05-04-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-04-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+05-04-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-04-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+05-04-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-05-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+05-05-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-05-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-05-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+05-05-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-05-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+05-05-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-05-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-05-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-06-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-06-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-06-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-06-1991,12:00,Pre-lunch blood glucose measurement,Low blood sugar content,0.003472222222222222
+05-06-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-06-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-06-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-06-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-06-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-07-1991,08:00,Pre-breakfast blood glucose measurement,Low blood sugar content,0.003472222222222222
+05-07-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-07-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-07-1991,12:00,Pre-lunch blood glucose measurement,Extremely low blood sugar content,0.003472222222222222
+05-07-1991,12:00,Hypoglycemic symptoms,Extremely low blood sugar content,0.003472222222222222
+05-07-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-07-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+05-07-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-07-1991,22:00,Unspecified blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+05-07-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-08-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-08-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-08-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-08-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-08-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-08-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-08-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-08-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-08-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-09-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-09-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-09-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-09-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-09-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-09-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-09-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-09-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-09-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-10-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-10-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-10-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-10-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-10-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-10-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-10-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-10-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-10-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-11-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-11-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-11-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-11-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+05-11-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-11-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-11-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-11-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+05-11-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-12-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-12-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-12-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-12-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+05-12-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-12-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+05-12-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-12-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+05-12-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-13-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+05-13-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-13-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-13-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+05-13-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-13-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+05-13-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-13-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+05-13-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-14-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-14-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-14-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-14-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+05-14-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-14-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+05-14-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-14-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+05-14-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-15-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+05-15-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-15-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-15-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+05-15-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-15-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+05-15-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-15-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+05-15-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-16-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-16-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-16-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-16-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+05-16-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-16-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+05-16-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-16-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-16-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-17-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-17-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-17-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-17-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+05-17-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-17-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-17-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-17-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-17-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-18-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-18-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-18-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-18-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+05-18-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-18-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+05-18-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-18-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+05-18-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-19-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+05-19-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-19-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-19-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+05-19-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-19-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+05-19-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-19-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-19-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-20-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+05-20-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-20-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-20-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+05-20-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-20-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+05-20-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-20-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+05-20-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-21-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-21-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-21-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-21-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+05-21-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-21-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+05-21-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-21-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+05-21-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-22-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+05-22-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-22-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-22-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+05-22-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-22-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+05-22-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-22-1991,22:00,Unspecified blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+05-22-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-23-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+05-23-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-23-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-23-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+05-23-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-23-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+05-23-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-23-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+05-23-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-24-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-24-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-24-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-24-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+05-24-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-24-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+05-24-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-24-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-24-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-25-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-25-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-25-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-25-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-25-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-25-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-25-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-25-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-25-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-26-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-26-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-26-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-26-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-26-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-26-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-26-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-26-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-26-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-27-1991,08:00,Pre-breakfast blood glucose measurement,Low blood sugar content,0.003472222222222222
+05-27-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-27-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-27-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-27-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-27-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-27-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-27-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-27-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-28-1991,08:00,Pre-breakfast blood glucose measurement,Low blood sugar content,0.003472222222222222
+05-28-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-28-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-28-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-28-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-28-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-28-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-28-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-28-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-29-1991,08:00,Pre-breakfast blood glucose measurement,Low blood sugar content,0.003472222222222222
+05-29-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-29-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-29-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-29-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-29-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-29-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-29-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+05-29-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-30-1991,03:00,Unspecified blood glucose measurement,Low blood sugar content,0.003472222222222222
+05-30-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+05-30-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-30-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-30-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+05-30-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-30-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+05-30-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-30-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+05-30-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-31-1991,03:00,Unspecified blood glucose measurement,Low blood sugar content,0.003472222222222222
+05-31-1991,03:00,Typical meal ingestion,Extremely low blood sugar content,0.003472222222222222
+05-31-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+05-31-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-31-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+05-31-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+05-31-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-31-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+05-31-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+05-31-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+05-31-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-01-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-01-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-01-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-01-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-01-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-01-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+06-01-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-01-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-01-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-02-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-02-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-02-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-02-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-02-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-02-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-02-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-02-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-02-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-03-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-03-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-03-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-03-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-03-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-03-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+06-03-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-03-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+06-03-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-04-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+06-04-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-04-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-04-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+06-04-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-04-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+06-04-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-04-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-04-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-05-1991,03:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-05-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+06-05-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-05-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-05-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+06-05-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-05-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+06-05-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-05-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-05-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-06-1991,03:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-06-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+06-06-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-06-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-06-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+06-06-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-06-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+06-06-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-06-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+06-06-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-07-1991,03:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+06-07-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+06-07-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-07-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-07-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+06-07-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-07-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+06-07-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-07-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+06-07-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-08-1991,03:00,Unspecified blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+06-08-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+06-08-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-08-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-08-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+06-08-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-08-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+06-08-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-08-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+06-08-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-09-1991,03:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+06-09-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+06-09-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-09-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-09-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+06-09-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-09-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+06-09-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-09-1991,22:00,Unspecified blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+06-09-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-10-1991,03:00,Unspecified blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+06-10-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+06-10-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-10-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-10-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+06-10-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-10-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+06-10-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-10-1991,22:00,Unspecified blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+06-10-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+06-11-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+06-11-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-11-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-11-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+06-11-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-11-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+06-11-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-11-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-11-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+06-12-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+06-12-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-12-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-12-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-12-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-12-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-12-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-12-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-12-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+06-13-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-13-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-13-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-13-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-13-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-13-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+06-13-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-13-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+06-13-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+06-14-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-14-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-14-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-14-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-14-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-14-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-14-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-14-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+06-14-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+06-15-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-15-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-15-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-15-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+06-15-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-15-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-15-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-15-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+06-15-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+06-16-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-16-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-16-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-16-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+06-16-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-16-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-16-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-16-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-16-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+06-17-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-17-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-17-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-17-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-17-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-17-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-17-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-17-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+06-17-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+06-18-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-18-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-18-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-18-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-18-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-18-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-18-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-18-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+06-18-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+06-19-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-19-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-19-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-19-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-19-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-19-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-19-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-19-1991,22:00,Unspecified blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+06-19-1991,22:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-19-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+06-20-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-20-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-20-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-20-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-20-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-20-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-20-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-20-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+06-20-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+06-21-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-21-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-21-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-21-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-21-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-21-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+06-21-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-21-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+06-21-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+06-22-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-22-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-22-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-22-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+06-22-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-22-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+06-22-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-22-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+06-22-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+06-23-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+06-23-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-23-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-23-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+06-23-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-23-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-23-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-23-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+06-23-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+06-24-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+06-24-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-24-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-24-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+06-24-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-24-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-24-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-24-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-24-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+06-25-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-25-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-25-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-25-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-25-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-25-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+06-25-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-25-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-25-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+06-26-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-26-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-26-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-26-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-26-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-26-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-26-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-26-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-26-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+06-27-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-27-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-27-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-27-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-27-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-27-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+06-27-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-27-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-27-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+06-28-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-28-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-28-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-28-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-28-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-28-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+06-28-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-28-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-28-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+06-29-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-29-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-29-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-29-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-29-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-29-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+06-29-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-29-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-29-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+06-30-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-30-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-30-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+06-30-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+06-30-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-30-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+06-30-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+06-30-1991,22:00,Unspecified blood glucose measurement,Low blood sugar content,0.003472222222222222
+06-30-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-01-1991,08:00,Pre-breakfast blood glucose measurement,Low blood sugar content,0.003472222222222222
+07-01-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-01-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-01-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-01-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-01-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-01-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-01-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-01-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-02-1991,08:00,Pre-breakfast blood glucose measurement,Low blood sugar content,0.003472222222222222
+07-02-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-02-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-02-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-02-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-02-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-02-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-02-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-02-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-03-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-03-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-03-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-03-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-03-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-03-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-03-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-03-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-03-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-04-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-04-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-04-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-04-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+07-04-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-04-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-04-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-04-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-04-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-05-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-05-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-05-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-05-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-05-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-05-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-05-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-05-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-05-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-06-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-06-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-06-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-06-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+07-06-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-06-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-06-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-06-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-06-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-07-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-07-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-07-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-07-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-07-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-07-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-07-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-07-1991,22:00,Unspecified blood glucose measurement,Low blood sugar content,0.003472222222222222
+07-07-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-08-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+07-08-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-08-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-08-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-08-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-08-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+07-08-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-08-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-08-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-09-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-09-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-09-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-09-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-09-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-09-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-09-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-09-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-09-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-10-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-10-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-10-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-10-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-10-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-10-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+07-10-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-10-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+07-10-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-11-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+07-11-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-11-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-11-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+07-11-1991,12:00,Less-than-usual meal ingestion,Extremely low blood sugar content,0.003472222222222222
+07-11-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-11-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+07-11-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-11-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-11-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-12-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-12-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-12-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-12-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-12-1991,12:00,Less-than-usual meal ingestion,Extremely low blood sugar content,0.003472222222222222
+07-12-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-12-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-12-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-12-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-12-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-13-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-13-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-13-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-13-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+07-13-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-13-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+07-13-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-13-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-13-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-14-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+07-14-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-14-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-14-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+07-14-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-14-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+07-14-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-14-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-14-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-15-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+07-15-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-15-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-15-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+07-15-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-15-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+07-15-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-15-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+07-15-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-16-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+07-16-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-16-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-16-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+07-16-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-16-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+07-16-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-16-1991,22:00,Unspecified blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+07-16-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-17-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+07-17-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-17-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-17-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+07-17-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-17-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+07-17-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-17-1991,22:00,Unspecified blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+07-17-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-18-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+07-18-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-18-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-18-1991,12:00,Pre-lunch blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+07-18-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-18-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+07-18-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-18-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-18-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-19-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+07-19-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-19-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-19-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+07-19-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-19-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+07-19-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-19-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-19-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-20-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-20-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-20-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-20-1991,12:00,Pre-lunch blood glucose measurement,High blood sugar content,0.003472222222222222
+07-20-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-20-1991,18:00,Pre-supper blood glucose measurement,High blood sugar content,0.003472222222222222
+07-20-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-20-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+07-20-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-21-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+07-21-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-21-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-21-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-21-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-21-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-21-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-21-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-21-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-22-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-22-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-22-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-22-1991,12:00,Pre-lunch blood glucose measurement,Low blood sugar content,0.003472222222222222
+07-22-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-22-1991,18:00,Pre-supper blood glucose measurement,Low blood sugar content,0.003472222222222222
+07-22-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-22-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-22-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-23-1991,08:00,Pre-breakfast blood glucose measurement,Low blood sugar content,0.003472222222222222
+07-23-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-23-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-23-1991,12:00,Pre-lunch blood glucose measurement,Low blood sugar content,0.003472222222222222
+07-23-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-23-1991,18:00,Pre-supper blood glucose measurement,Low blood sugar content,0.003472222222222222
+07-23-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-23-1991,22:00,Unspecified blood glucose measurement,Low blood sugar content,0.003472222222222222
+07-23-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-24-1991,08:00,Pre-breakfast blood glucose measurement,Low blood sugar content,0.003472222222222222
+07-24-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-24-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-24-1991,12:00,Pre-lunch blood glucose measurement,Low blood sugar content,0.003472222222222222
+07-24-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-24-1991,18:00,Pre-supper blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+07-24-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-24-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+07-24-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-25-1991,08:00,Pre-breakfast blood glucose measurement,High blood sugar content,0.003472222222222222
+07-25-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-25-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-25-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-25-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-25-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-25-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-25-1991,22:00,Unspecified blood glucose measurement,High blood sugar content,0.003472222222222222
+07-25-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-26-1991,08:00,Pre-breakfast blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-26-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-26-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-26-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-26-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-26-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-26-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-26-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-26-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
+07-27-1991,08:00,Pre-breakfast blood glucose measurement,Extremely high blood sugar content,0.003472222222222222
+07-27-1991,08:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-27-1991,08:00,UltraLente insulin dose,Extremely low blood sugar content,1.25
+07-27-1991,12:00,Pre-lunch blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-27-1991,12:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-27-1991,18:00,Pre-supper blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-27-1991,18:00,Regular insulin dose,Extremely low blood sugar content,0.125
+07-27-1991,22:00,Unspecified blood glucose measurement,Normal blood sugar content,0.003472222222222222
+07-27-1991,22:00,NPH insulin dose,Extremely low blood sugar content,0.25
