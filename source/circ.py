@@ -4,18 +4,6 @@ from circ_duration_data_object import CIRCDurationDataObject
 def lambda_(
     data_obj: CIRCDurationDataObject, cause: str, effect: str, window_size: int
 ):
-    """
-    Compute:
-              w        sum_duration_y_in_window(Nw(y <- x))
-        lambda  = --------------------------------------------
-              x|y               total_duration(y)
-
-        In which:
-            sum_duration_y_in_window_Nw(y <- x):
-                Given x occurs, if y occurred in the previous window, accumulate all durations of y in the previous window.
-
-            total_duration(y): all durations of y in the entire dataset.
-    """
     sum_duration_y_in_window = data_obj.accumulated_cause_durations[
         (window_size, cause, effect)
     ]
@@ -31,20 +19,6 @@ def lambda_(
 def lambda_comp(
     data_obj: CIRCDurationDataObject, cause: str, effect: str, window_size: int
 ):
-    """
-    Compute:
-                                                   _
-              w        sum_duration_x_in_window(Nw(y <- x))
-        lambda  _ = --------------------------------------------
-              x|y               total_duration(x)
-
-        In which:
-                                        _
-            sum_duration_x_in_window_Nw(y <- x):
-                Given x occurs, if y didn't occur in the previous window, accumulate the duration of x.
-
-            total_duration(x): all durations of x in the entire dataset.
-    """
     sum_duration_x_in_window = data_obj.effect_durations_when_cause_comp[
         (window_size, cause, effect)
     ]
@@ -59,16 +33,6 @@ def lambda_comp(
 def circ(
     data_obj: CIRCDurationDataObject, cause: str, effect: str, window_size: int
 ) -> float:
-    """
-    Compute:
-                            w
-                      lambda
-                            x|y
-        CIRc(x, y) = -----------
-                            w
-                      lambda  _
-                            x|y
-    """
     nominator = lambda_(data_obj, cause, effect, window_size)
     denominator = lambda_comp(data_obj, cause, effect, window_size)
 
