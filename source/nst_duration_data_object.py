@@ -42,10 +42,6 @@ class NSTDurationDataObject(DurationDataObject):
         )
 
     def _calc_accumulated_cause_durations(self, *args):
-        """
-        Considering (x <- y).
-        If y occurs and x occurred in the previous window, accumulate durations of all x in the window.
-        """
         cause, effect, window_size = args[0]
         sum_accumulated_duration = 0
 
@@ -73,10 +69,6 @@ class NSTDurationDataObject(DurationDataObject):
         )
 
     def _calc_accumulated_effect_durations(self, *args):
-        """
-        Considering (x -> y).
-        If x occurs and y occurs in the next window, accumulate durations of all y in the window.
-        """
         cause, effect, window_size = args[0]
         sum_accumulated_duration = 0
 
