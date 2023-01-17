@@ -40,10 +40,6 @@ class CIRBDurationDataObject(DurationDataObject):
         )
 
     def _calc_accumulated_cause_durations(self, *args):
-        """
-        Considering (x <- y).
-        If y occurs and x occurred in the previous window, accumulate the durations of all x in that window.
-        """
         cause, effect, window_size = args[0]
         sum_duration = 0
 
