@@ -9,15 +9,6 @@ def nst(
     lambda_const: float,
     alpha_const: float,
 ):
-    """
-    Compute NST(x, y):
-
-                    --                                               -- lambda_const   --                                               -- (1 - lambda_const)
-                    |     pw(x <- y)        sum_duration_in_window(x) |                |    pw(x -> y)         sum_duration_in_window(y) |
-        NST(x, y) = |-------------------- * --------------------------|                |-------------------- * --------------------------|
-                    | p(x) ^ alpha * p(y)   total_duration(x)         |                | p(x) * p(y) ^ alpha   total_duration(y)         |
-                    --                                               --                --                                               --
-    """
     pw_backward = data_obj.pw_backward(cause, effect, window_size)
     pw_forward = data_obj.pw_forward(cause, effect, window_size)
     px = data_obj.p[cause]
