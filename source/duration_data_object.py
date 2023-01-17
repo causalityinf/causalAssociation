@@ -59,9 +59,6 @@ class DurationDataObject:
         return ""
 
     def _read_dataset_with_size(self, size: int):
-        """
-        Read the dataset with a specific size.
-        """
         for i in range(self.dataset.shape[0]):
             if self.dataset["end"][i] > size:
                 self.dataset = self.dataset.iloc[: i + 1]
@@ -88,7 +85,6 @@ class DurationDataObject:
         return event in cause.split(", ")
 
     def _init_necessity(self):
-        """Initialize a dictionary to save Nw(x <- y)."""
         with mp.Pool(mp.cpu_count()) as pool:
             results = pool.map(
                 self._calc_necessity,
@@ -102,10 +98,6 @@ class DurationDataObject:
         self.necessity.update({result[0]: result[1] for result in results})
 
     def _calc_necessity(self, *args):
-        """
-        Compute:
-            Nw(x <- y): given y occurs, if x occurred in the previous window, increase window_counts by 1.
-        """
         cause, effect, window_size = args[0]
         window_counts = 0
 
@@ -121,7 +113,6 @@ class DurationDataObject:
         )
 
     def _init_sufficiency(self):
-        """Initialize a dictionary to save Nw(x -> y)."""
         with mp.Pool(mp.cpu_count()) as pool:
             results = pool.map(
                 self._calc_sufficiency,
@@ -135,10 +126,6 @@ class DurationDataObject:
         self.sufficiency.update({result[0]: result[1] for result in results})
 
     def _calc_sufficiency(self, *args):
-        """
-        Compute:
-            Nw(x -> y): given x occurs, if y occurs in the next window, increase window_counts by 1.
-        """
         cause, effect, window_size = args[0]
         window_counts = 0
 
@@ -154,7 +141,6 @@ class DurationDataObject:
         )
 
     def _init_D(self):
-        """Initialize a dictionary to save Dw(x)."""
         with mp.Pool(mp.cpu_count()) as pool:
             results = pool.map(
                 self._calc_D,
@@ -168,13 +154,6 @@ class DurationDataObject:
         self.D.update({result[0]: result[1] for result in results})
 
     def _calc_D(self, *args):
-        """
-        Compute:
-            Dw(x): Count the number of windows in which x occurs.
-
-        Params:
-            args[0] = (cause, window_size)
-        """
         cause, window_size = args[0]
         windows_count = 0
 
@@ -186,7 +165,6 @@ class DurationDataObject:
         return (window_size, cause), windows_count
 
     def _init_N(self):
-        """Initialize a dictionary to save N(x)."""
         with mp.Pool(mp.cpu_count()) as pool:
             results = pool.map(
                 self._calc_N,
@@ -195,10 +173,6 @@ class DurationDataObject:
         self.N.update({result[0]: result[1] for result in results})
 
     def _calc_N(self, event):
-        """
-        Compute:
-            N(x): Count the number of occurrences of x in the entire dataset.
-        """
         if self.cause_col.apply(self._exist, args=(event,)).any():
             event_col = self.cause_col
         else:
@@ -207,7 +181,6 @@ class DurationDataObject:
         return event, event_col.apply(self._exist, args=(event,)).sum()
 
     def _init_p(self):
-        """Initialize a dictionary to save p(x)."""
         with mp.Pool(mp.cpu_count()) as pool:
             results = pool.map(
                 self._calc_p,
@@ -216,25 +189,13 @@ class DurationDataObject:
         self.p.update({result[0]: result[1] for result in results})
 
     def _calc_p(self, event):
-        """
-        Compute:
-            p(x) = N(x) / T
-        """
         return event, self.N[event] / self.T
 
     def pw_backward(self, cause, effect, window_size):
-        """
-        Compute:
-            pw(x <- y) = Nw(x <- y) / T
-        """
         nec = self.necessity[(window_size, cause, effect)]
         return nec / self.T
 
     def pw_forward(self, cause, effect, window_size):
-        """
-        Compute:
-            pw(x -> y) = Nw(x -> y) / T
-        """
         suf = self.sufficiency[(window_size, cause, effect)]
         return suf / self.T
 
