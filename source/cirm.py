@@ -4,17 +4,6 @@ from cirm_duration_data_object import CIRMDurationDataObject
 def lambda_42(
     data_obj: CIRMDurationDataObject, cause: str, effect: str, z: str, window_size: int
 ):
-    """
-    Compute:
-              w         sum_duration_y_in_window(Nw(y, z <- x))
-        lambda      = --------------------------------------------
-              x|y,z             total_duration(y)
-
-        In which:
-            sum_duration_y_in_window(Nw(y, z <- x)):
-                Given x occurs, if y, z occurred in the previous window, accumulate all durations of y in the previous window.
-            total_duration(y): all durations of y in the entire dataset.
-    """
     sum_duration_y_in_window = data_obj.accumulated_cause_durations_single_z[
         (window_size, cause, effect, z)
     ]
@@ -30,19 +19,6 @@ def lambda_42(
 def lambda_comp_43(
     data_obj: CIRMDurationDataObject, cause: str, effect: str, z: str, window_size: int
 ):
-    """
-    Compute:
-                                                    _
-              w         sum_duration_x_in_window(Nw(y, z <- x))
-        lambda  _   = --------------------------------------------
-              x|y,z             total_duration(x)
-
-        In which:
-                                        _
-            sum_duration_x_in_window(Nw(y, z <- x)):
-                Given x occurs, if y didn't occur but z occurred in the previous window, accumulate all durations of y in the previous window.
-            total_duration(x): all durations of x in the entire dataset.
-    """
     sum_duration_x_in_window = data_obj.effect_durations_when_cause_comp_single_z[
         (window_size, cause, effect, z)
     ]
@@ -58,16 +34,6 @@ def lambda_comp_43(
 def cirm_single_z(
     data_obj: CIRMDurationDataObject, cause, effect, window_size
 ) -> float:
-    """
-    Compute:
-                      --      w     --
-                      | lambda       |
-                      |       x|y,z  |
-        CIRM(y, x) = g|--------------|
-                      |       w      |
-                      | lambda  _    |
-                      --      x|y,z --
-    """
     results = []
     for z in data_obj.single_z_set[effect]:
         nominator = lambda_42(data_obj, cause, effect, z, window_size)
@@ -91,17 +57,6 @@ def lambda_44(
     z_combination: tuple,
     window_size: int,
 ):
-    """
-    Compute:
-              w         sum_duration_y_in_window(Nw(y, z <- x))
-        lambda      = --------------------------------------------
-              x|y,z             total_duration(y)
-
-        In which:
-            sum_duration_y_in_window(Nw(y, z <- x)):
-                Given x occurs, if y, z occurred in the previous window, accumulate all durations of y in the previous window.
-            total_duration(y): all durations of y in the entire dataset.
-    """
     sum_duration_y_in_window = data_obj.accumulated_cause_durations_enumerated_z[
         (window_size, cause, effect, z_combination)
     ]
@@ -121,19 +76,6 @@ def lambda_comp_45(
     z_combination: tuple,
     window_size: int,
 ):
-    """
-    Compute:
-                                                    _
-              w         sum_duration_x_in_window(Nw(y, z <- x))
-        lambda  _   = --------------------------------------------
-              x|y,z             total_duration(x)
-
-        In which:
-                                        _
-            sum_duration_x_in_window(Nw(y, z <- x)):
-                Given x occurs, if y didn't occur but z occurred in the previous window, accumulate all durations of y in the previous window.
-            total_duration(x): all durations of x in the entire dataset.
-    """
     sum_duration_x_in_window = data_obj.effect_durations_when_cause_comp_enumerated_z[
         (window_size, cause, effect, z_combination)
     ]
@@ -149,16 +91,6 @@ def lambda_comp_45(
 def cirm_enumerated_z(
     data_obj: CIRMDurationDataObject, cause, effect, window_size
 ) -> float:
-    """
-    Compute:
-                      --      w     --
-                      | lambda       |
-                      |       x|y,z  |
-        CIRM(y, x) = g|--------------|
-                      |       w      |
-                      | lambda  _    |
-                      --      x|y,z --
-    """
     results = []
     for z_combination in data_obj.enumerated_z_set[effect]:
         nominator = lambda_44(data_obj, cause, effect, z_combination, window_size)
