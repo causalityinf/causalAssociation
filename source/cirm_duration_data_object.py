@@ -42,29 +42,7 @@ class CIRMDurationDataObject(DurationDataObject):
     def _init_z_set(self, path):
         with open(path, "r") as f:
             z_set = json.load(f)
-        return z_set
-        # return {
-        #     "traffic_volume_0": [
-        #         "heavy intensity rain",
-        #         "mist",
-        #         "moderate rain",
-        #         "traffic_volume_0",
-        #         "traffic_volume_2",
-        #     ],
-        #     "traffic_volume_1": [
-        #         "mist",
-        #         "moderate rain",
-        #         "traffic_volume_1",
-        #         "light rain",
-        #     ],
-        #     "traffic_volume_2": [
-        #         "moderate rain",
-        #         "light rain",
-        #         "heavy intensity rain",
-        #         "traffic_volume_1",
-        #         "traffic_volume_2",
-        #     ],
-        # }
+        return z_set        
 
     def _enumerate_z(self):
         new_z_set = dict()
@@ -91,13 +69,6 @@ class CIRMDurationDataObject(DurationDataObject):
         )
 
     def _calc_accumulated_cause_durations_single_z(self, *args):
-        """
-        Compute:
-            sum_duration_y_in_window(Nw(y, z <- x))
-            Given x occurs, if y and z occurred in the previous window, accumulate the durations of all y in the previous window.
-        Params:
-            args[0] = (cause, effect, z, window_size)
-        """
         cause, effect, z, window_size = args[0]
         z_cols = dict()
         if self.cause_col.apply(self._exist, args=(z,)).any():
@@ -140,14 +111,6 @@ class CIRMDurationDataObject(DurationDataObject):
         )
 
     def _calc_effect_durations_when_cause_comp_single_z(self, *args):
-        """
-        Compute:
-                                        _
-            sum_duration_x_in_window(Nw(y, z <- x))
-            Given x occurs, if y didn't occur but z occurred in the previous window, accumulate the duration of x.
-        Params:
-            args[0] = (cause, effect, z, window_size)
-        """
         cause, effect, z, window_size = args[0]
         z_cols = dict()
         if self.cause_col.apply(self._exist, args=(z,)).any():
@@ -185,13 +148,6 @@ class CIRMDurationDataObject(DurationDataObject):
         )
 
     def _calc_accumulated_cause_durations_enumerated_z(self, *args):
-        """
-        Compute:
-            sum_duration_y_in_window(Nw(y, z <- x))
-            Given x occurs, if y and z occurred in the previous window, accumulate the durations of all y in the previous window.
-        Params:
-            args[0] = (cause, effect, z, window_size)
-        """
         cause, effect, z_combination, window_size = args[0]
         z_cols = dict()
         for z in z_combination:
@@ -241,13 +197,6 @@ class CIRMDurationDataObject(DurationDataObject):
         )
 
     def _calc_effect_durations_when_cause_comp_enumerated_z(self, *args):
-        """
-                                    _
-        sum_duration_x_in_window(Nw(y, z <- x))
-            Given x occurs, if y didn't occur but z occurred in the previous window, accumulate duration of x.
-        Params:
-            args[0] = (cause, effect, z, window_size)
-        """
         cause, effect, z_combination, window_size = args[0]
         z_cols = dict()
         for z in z_combination:
