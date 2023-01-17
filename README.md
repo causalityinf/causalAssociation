@@ -69,5 +69,5 @@ path_parent: path of parent file
 
 Example:  
 ```
-python3 source/DEC.py --cirm -I data/air/preprocessedData/Air_PM10_Duration.csv -O result --cause cause --effect effect --duration duration --parent parent/air/parent_PM10.json
+python3 source/DEC.py --cirm -I data/air/preprocessedData/Air_PM10_Duration.csv -O result --cause cause --effect effect --duration duration --parent data/air/preprocessedData/parent_PM10.json
 ```
