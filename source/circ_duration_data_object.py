@@ -43,10 +43,6 @@ class CIRCDurationDataObject(DurationDataObject):
         )
 
     def _calc_accumulated_cause_durations(self, *args):
-        """
-        Considering (x <- y).
-        If y occurs and x occurred in the previous window, accumulate the durations of all x in that window.
-        """
         cause, effect, window_size = args[0]
         sum_duration = 0
 
@@ -74,11 +70,6 @@ class CIRCDurationDataObject(DurationDataObject):
         )
 
     def _calc_effect_durations_when_cause_comp(self, *args):
-        """
-                     _
-        Considering (x <- y).
-        If y occurs but x didn't occur in the previous window, accumulate the duration of y.
-        """
         cause, effect, window_size = args[0]
         sum_duration = 0
 
